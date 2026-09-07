@@ -1,0 +1,6 @@
+=== VulnMesh-GRC Automated Risk & Policy Summary ===
+Total Vulnerabilities Processed: 4
+Open Critical Risk Findings: 2 (Max Allowed: 0)
+Open High Risk Findings: 1 (Max Allowed: 2)
+Compliance Evaluation: FAILED - Policy thresholds exceeded!
+Status: Pipeline executed successfully via CLI.

@@ -877,20 +877,20 @@ See the repository license for applicable terms.
 # ⭐ Project Highlights
 
 ```text
-+--------------------------------------------+
-|                 VULNMESH-GRC               |
-+--------------------------------------------+
-|                                            |
-|  [✓] Zero Third-Party Python Dependencies  |
-|  [✓] Air-Gapped Friendly Architecture     |
-|  [✓] Policy-Based Risk Governance          |
-|  [✓] Automated Compliance Evaluation       |
-|  [✓] CLI-Based Security Automation         |
-|  [✓] Automated Unit Testing                |
-|  [✓] Audit-Oriented Reporting              |
-|  [✓] Enterprise Extension Roadmap         |
-|                                            |
-+--------------------------------------------+
++--------------------------------------------------+
+|                  VULNMESH-GRC                    |
++--------------------------------------------------+
+|                                                  |
+|  [OK] Zero Third-Party Python Dependencies       |
+|  [OK] Air-Gapped Friendly Architecture           |
+|  [OK] Policy-Based Risk Governance               |
+|  [OK] Automated Compliance Evaluation            |
+|  [OK] CLI-Based Security Automation              |
+|  [OK] Automated Unit Testing                     |
+|  [OK] Audit-Oriented Reporting                   |
+|  [OK] Enterprise Extension Roadmap               |
+|                                                  |
++--------------------------------------------------+
 ```
 
 **VulnMesh-GRC — Turning vulnerability data into actionable governance decisions.**
